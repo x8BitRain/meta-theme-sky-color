@@ -10,7 +10,7 @@ Insert this
 
 ```<script src="https://cdn.jsdelivr.net/gh/x8BitRain/meta-theme-sky-color@latest/metaskycol.min.js" type="text/javascript"></script>```
 
-into the <head> of your webpage.
+into the ``<head>`` of your webpage.
 
 ## demo
 Visiting https://btr.pm/test on Chrome android/ios will display the following colors in the nav bar.
